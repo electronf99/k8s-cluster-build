@@ -9,5 +9,5 @@ K8s Cluster Build
 <img src="IMG20251214193220.jpg" width=800>
 <video src="BlinkenLights.mp4"></video>
 
-
+https://github.com/electronf99/k8s-cluster/blob/main/BlinkenLights.mp4
 
